@@ -24,3 +24,6 @@ A desktop application for veterinary clinics, developed in Python using Tkinter,
 2. pip install -r Requirements.txt
 3. Run the application:
     python src/vet.py
+4. ## Database Setup
+    Make sure MySQL is installed and running.
+    Import the database  bd_veterinaria
