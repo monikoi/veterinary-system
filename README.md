@@ -21,6 +21,6 @@ A desktop application for veterinary clinics, developed in Python using Tkinter,
 ## 🚀 How to run
 
 1. Clone the repository: https://github.com/monikoi/veterinary-system.git
-2. pip install -r requirements.txt
+2. pip install -r Requirements.txt
 3. Run the application:
     python src/vet.py
